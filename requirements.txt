@@ -1,0 +1,9 @@
+tqdm
+torch==1.10.0+cpu
+detectron2 @ git+https://github.com/facebookresearch/detectron2.git@96c752ce821a3340e27edd51c28a00665dd32a30
+flake8==3.7.9
+networkx==2.4
+numpy==1.21.6
+opencv-python==4.6.0.66
+overpass==0.7
+pygraphviz==1.5
