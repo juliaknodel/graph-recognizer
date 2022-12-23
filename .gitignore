@@ -133,3 +133,4 @@ graph_img_val/
 response.json
 add_data/
 model_fit.ipynb
+output/
