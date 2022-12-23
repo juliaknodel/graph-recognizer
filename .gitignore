@@ -129,4 +129,7 @@ dmypy.json
 .pyre/
 .idea/
 graph_img_private/
+graph_img_val/
 response.json
+add_data/
+model_fit.ipynb
